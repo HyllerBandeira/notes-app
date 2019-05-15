@@ -28,5 +28,4 @@ Comand: read
 Comand: remove
   Remove a note
   atributes:
-    title: string|required,
-    
+    title: string|required
